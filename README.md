@@ -10,6 +10,8 @@ Android 性能优化参考文档
     - 关于[性能优化的培训](http://developer.android.com/training/best-performance.html)，[中文翻译](http://hukai.me/android-training-course-in-chinese/best-performance.html) 
     - [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg) Android 官方开发者频道
     - [Android 官方性能优化话题](https://developer.android.google.cn/topic/performance)
+    - [分析应用性能](https://developer.android.com/studio/profile?hl=zh-cn)
+    - [Android 性能优化](https://source.android.google.cn/devices/tech/perf?hl=zh-cn)
 - 微信终端开发团队博客，公众号 WeMobileDev ，也可访问[腾讯云专栏](https://cloud.tencent.com/developer/column/1362)
 - [Facebook Android 专栏](https://engineering.fb.com/category/android/)
 - 《性能之巅》作者 [Brendan D.Gregg 的网站](http://www.brendangregg.com)
@@ -31,6 +33,7 @@ Android 性能优化参考文档
 - [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) 基于 [BlockCanary](https://github.com/markzhai/AndroidPerformanceMonitor) ，记录主线程中执行的所有方法和它们的执行时间
 - [DroidTelescope](https://github.com/zkwlx/DroidTelescope)
 - [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) 检测 ANR 并抛出有意义的堆栈
+- [PerfDog性能狗](https://perfdog.qq.com/)
 
 
 #### 类库
@@ -79,7 +82,6 @@ Android 性能优化参考文档
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) Juude 整理的性能优化视频和文章
 - [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference) Android 教程文章集合，里面有性能优化部分的文章可参考
 
-
 性能方法论
 
 - [如何回答性能优化的问题，才能打动阿里面试官？](https://zhuanlan.zhihu.com/p/92910466) 
@@ -94,6 +96,12 @@ Android 性能优化参考文档
 - [加速你的 Android 应用](https://juejin.im/entry/563ae1b560b216575c53c3d6) 国外程序员优化经验，还有配套[视频](https://www.youtube.com/watch?v=v3DlGOQAIbw)，主要介绍 systrace 等工具使用
 - [Android性能优化来龙去脉总结](https://wetest.qq.com/lab/view/390.html) 鹅厂程序员总结性能优化
 - [移动端性能监控方案Hertz](https://tech.meituan.com/2016/12/19/hertz.html) 美团性能监控方案 Hertz 简介
+- [抖音 Android 性能优化系列：新一代全能型性能分析工具 Rhea](https://www.infoq.cn/article/g5oybcu8irgz9msqiyej)
+- [Android性能优化流程与思路](https://www.paincker.com/android-performance) 
+- [Android 性能优化总结](https://juejin.cn/post/6950608825942868004)
+- [Android 面试之必问性能优化](https://segmentfault.com/a/1190000040130054)
+- [Android性能优化](https://blog.yorek.xyz/android/framework/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+- [Android性能优化来龙去脉总结](https://wetest.qq.com/lab/view/390.html)
 
 
 启动速度 & 页面打开速度
