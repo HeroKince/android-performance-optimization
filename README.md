@@ -102,6 +102,7 @@ Android 性能优化参考文档
 - [Android 面试之必问性能优化](https://segmentfault.com/a/1190000040130054)
 - [Android性能优化](https://blog.yorek.xyz/android/framework/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
 - [Android性能优化来龙去脉总结](https://wetest.qq.com/lab/view/390.html)
+- [Android优化总结 - 思否](https://segmentfault.com/a/1190000019500443)
 
 
 启动速度 & 页面打开速度
