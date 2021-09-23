@@ -200,3 +200,5 @@ Android 性能优化参考文档
 - 极客时间 [Android开发高手课](https://time.geekbang.org/column/intro/142) 前微信高级工程师 和 Tinker负责人讲解如何做性能优化，教程质量很高
 - 极客时间 [深入浅出计算机组成原理](https://time.geekbang.org/column/intro/170)
 - 极客时间 [性能工程高手课](https://time.geekbang.org/column/intro/259)
+
+https://github.com/Juude/awesome-android-performance
